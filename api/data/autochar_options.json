@@ -1,5 +1,5 @@
 {
-    "backgrounds": [
+	"backgrounds": [
 		"Acolyte",
 		"Anthropologist",
 		"Archaeologist",
@@ -57,208 +57,208 @@
 		"Urchin",
 		"Uthgardt Tribe Member",
 		"Volstrucker Agent"		
-    ],
-    "classes": [
-        {
-            "name": "Artificer",
-            "subclasses": [
-                "Artificer: Alchemist",
-                "Artificer: Armorer",
-                "Artificer: Artillerist",
-                "Artificer: Battlesmith"
-            ]
-        },
-        {
-            "name": "Barbarian",
-            "subclasses": [
-                "Barbarian: Path of the Ancestral Guardian",
-                "Barbarian: Path of the Battlerager",
+	],
+	"classes": [
+		{
+			"name": "Artificer",
+			"subclasses": [
+				"Artificer: Alchemist",
+				"Artificer: Armorer",
+				"Artificer: Artillerist",
+				"Artificer: Battlesmith"
+			]
+		},
+		{
+			"name": "Barbarian",
+			"subclasses": [
+				"Barbarian: Path of the Ancestral Guardian",
+				"Barbarian: Path of the Battlerager",
 				"Barbarian: Path of the Beast",
-                "Barbarian: Path of the Berserker",
-                "Barbarian: Path of the Giant",
-                "Barbarian: Path of the Storm Herald",
-                "Barbarian: Path of the Totem Warrior",
-                "Barbarian: Path of the Wild Magic",
-                "Barbarian: Path of the Zealot"
-            ]
-        },
-        {
-            "name": "Bard",
-            "subclasses": [
-                "Bard: College of Creation",
-                "Bard: College of Eloquence",
+				"Barbarian: Path of the Berserker",
+				"Barbarian: Path of the Giant",
+				"Barbarian: Path of the Storm Herald",
+				"Barbarian: Path of the Totem Warrior",
+				"Barbarian: Path of the Wild Magic",
+				"Barbarian: Path of the Zealot"
+			]
+		},
+		{
+			"name": "Bard",
+			"subclasses": [
+				"Bard: College of Creation",
+				"Bard: College of Eloquence",
 				"Bard: College of Glamour",
-                "Bard: College of Lore",
+				"Bard: College of Lore",
 				"Bard: College of Satire",
 				"Bard: College of Spirits",
-                "Bard: College of Valor",
-                "Bard: College of Swords",
-                "Bard: College of Whispers"
-            ]
-        },
-        {
-            "name": "Blood Hunter",
-            "subclasses": [
-                "Blood Hunter: Order of the Ghostslayer",
-                "Blood Hunter: Order of the Lycan",
-				"Blood Hunter: Order of the Mutant",
-                "Blood Hunter: Order of the Profane Soul"
-            ]
-        },		
-        {
-            "name": "Cleric",
-            "subclasses": [
-                "Cleric: Arcana Domain",
-                "Cleric: Death Domain",
-                "Cleric: Forge Domain",
-                "Cleric: Grave Domain",
-                "Cleric: Knowledge Domain",
-                "Cleric: Life Domain",
-                "Cleric: Light Domain",
-                "Cleric: Nature Domain",
-                "Cleric: Order Domain",
-                "Cleric: Peace Domain",
-                "Cleric: Tempest Domain",
-                "Cleric: Trickery Domain",
-                "Cleric: Twilight Domain",
-                "Cleric: War Domain"				
-            ]
-        },
-        {
-            "name": "Druid",
-            "subclasses": [
-                "Druid: Circle of Dreams",
-                "Druid: Circle of the Land",
-                "Druid: Circle of the Moon",
-                "Druid: Circle of the Shepherd",
-                "Druid: Circle of Spores",
-                "Druid: Circle of Wildfire"
-            ]
-        },
-        {
-            "name": "Fighter",
-            "subclasses": [
-                "Fighter: Arcane Archer",
-                "Fighter: Battle Master",
-                "Fighter: Cavalier",
-                "Fighter: Champion",
-                "Fighter: Echo Knight",
-                "Fighter: Eldritch Knight",
-                "Fighter: Psi Warrior",
-                "Fighter: Purple Dragon Knight (Banneret)",
-                "Fighter: Rune Knight",
-                "Fighter: Samurai"
-            ]
-        },
-        {
-            "name": "Monk",
-            "subclasses": [
-                "Monk: Way of the Ascendant Dragon",
-				"Monk: Way of the Astral Self",
-                "Monk: Way of the Drunken Master",
-                "Monk: Way of the Four Elements",
-                "Monk: Way of the Kensei",
-                "Monk: Way of the Long Death",
-                "Monk: Way of Mercy",
-                "Monk: Way of the Open Hand",
-                "Monk: Way of Shadow",
-                "Monk: Way of the Sun Soul"
-            ]
-        },
-        {
-            "name": "Paladin",
-            "subclasses": [
-                "Paladin: Oath of the Ancients",
-                "Paladin: Oath of Conquest",
-                "Paladin: Oath of the Crown",
-                "Paladin: Oath of Devotion",
-                "Paladin: Oath of Glory",
-                "Paladin: Oath of Redemption",
-                "Paladin: Oath of Vengeance",
-                "Paladin: Oath of the Watchers",
-                "Paladin: Oathbreaker"
-            ]
-        },
-        {
-            "name": "Ranger",
-            "subclasses": [
-                "Ranger: Beast Master",
-                "Ranger: Drakewarden",
-				"Ranger: Fey Wanderer",
-                "Ranger: Gloom Stalker",
-                "Ranger: Horizon Walker",
-                "Ranger: Hunter",
-                "Ranger: Monster Slayer",
-                "Ranger: Swarmkeeper"
+				"Bard: College of Valor",
+				"Bard: College of Swords",
+				"Bard: College of Whispers"
 			]
-        },
-        {
-            "name": "Rogue",
-            "subclasses": [
-                "Rogue: Arcane Trickster",
-                "Rogue: Assassin",
-                "Rogue: Inquisitive",
-                "Rogue: Mastermind",
-                "Rogue: Phatom",				
-                "Rogue: Scout",
-                "Rogue: Soulknife",
-                "Rogue: Swashbuckler",
-                "Rogue: Thief"
-            ]
-        },
-        {
-            "name": "Sorcerer",
-            "subclasses": [
-                "Sorcerer: Aberrant Mind",
-                "Sorcerer: Clockwork Soul",
-                "Sorcerer: Divine Soul",
-                "Sorcerer: Draconic Bloodline",
-                "Sorcerer: Lunar Sorcery",
-                "Sorcerer: Shadow Magic",
-                "Sorcerer: Storm Sorcery",
-                "Sorcerer: Wild Magic",
-                "Sorcerer: Giant Soul (UA)",
-                "Sorcerer: Phoenix Sorcery (UA)",
-                "Sorcerer: Sea Sorcery (UA)",
-                "Sorcerer: Stone Sorcery (UA)"
-            ]
-        },
-        {
-            "name": "Warlock",
-            "subclasses": [
-                "Warlock: The Archfey",
-                "Warlock: The Celestial",				
-                "Warlock: The Fathomless",
-                "Warlock: The Fiend",
-                "Warlock: The Genie",
-                "Warlock: The Great Old One",
-                "Warlock: The Hexblade",
-                "Warlock: The Raven Queen (UA)",
-                "Warlock: The Seeker (UA)",
-                "Warlock: The Undead",
-                "Warlock: The Undying"
-            ]
-        },
-        {
-            "name": "Wizard",
-            "subclasses": [
-                "Wizard: Bladesinging",
+		},
+		{
+			"name": "Blood Hunter",
+			"subclasses": [
+				"Blood Hunter: Order of the Ghostslayer",
+				"Blood Hunter: Order of the Lycan",
+				"Blood Hunter: Order of the Mutant",
+				"Blood Hunter: Order of the Profane Soul"
+			]
+		},		
+		{
+			"name": "Cleric",
+			"subclasses": [
+				"Cleric: Arcana Domain",
+				"Cleric: Death Domain",
+				"Cleric: Forge Domain",
+				"Cleric: Grave Domain",
+				"Cleric: Knowledge Domain",
+				"Cleric: Life Domain",
+				"Cleric: Light Domain",
+				"Cleric: Nature Domain",
+				"Cleric: Order Domain",
+				"Cleric: Peace Domain",
+				"Cleric: Tempest Domain",
+				"Cleric: Trickery Domain",
+				"Cleric: Twilight Domain",
+				"Cleric: War Domain"				
+			]
+		},
+		{
+			"name": "Druid",
+			"subclasses": [
+				"Druid: Circle of Dreams",
+				"Druid: Circle of the Land",
+				"Druid: Circle of the Moon",
+				"Druid: Circle of the Shepherd",
+				"Druid: Circle of Spores",
+				"Druid: Circle of Wildfire"
+			]
+		},
+		{
+			"name": "Fighter",
+			"subclasses": [
+				"Fighter: Arcane Archer",
+				"Fighter: Battle Master",
+				"Fighter: Cavalier",
+				"Fighter: Champion",
+				"Fighter: Echo Knight",
+				"Fighter: Eldritch Knight",
+				"Fighter: Psi Warrior",
+				"Fighter: Purple Dragon Knight (Banneret)",
+				"Fighter: Rune Knight",
+				"Fighter: Samurai"
+			]
+		},
+		{
+			"name": "Monk",
+			"subclasses": [
+				"Monk: Way of the Ascendant Dragon",
+				"Monk: Way of the Astral Self",
+				"Monk: Way of the Drunken Master",
+				"Monk: Way of the Four Elements",
+				"Monk: Way of the Kensei",
+				"Monk: Way of the Long Death",
+				"Monk: Way of Mercy",
+				"Monk: Way of the Open Hand",
+				"Monk: Way of Shadow",
+				"Monk: Way of the Sun Soul"
+			]
+		},
+		{
+			"name": "Paladin",
+			"subclasses": [
+				"Paladin: Oath of the Ancients",
+				"Paladin: Oath of Conquest",
+				"Paladin: Oath of the Crown",
+				"Paladin: Oath of Devotion",
+				"Paladin: Oath of Glory",
+				"Paladin: Oath of Redemption",
+				"Paladin: Oath of Vengeance",
+				"Paladin: Oath of the Watchers",
+				"Paladin: Oathbreaker"
+			]
+		},
+		{
+			"name": "Ranger",
+			"subclasses": [
+				"Ranger: Beast Master",
+				"Ranger: Drakewarden",
+				"Ranger: Fey Wanderer",
+				"Ranger: Gloom Stalker",
+				"Ranger: Horizon Walker",
+				"Ranger: Hunter",
+				"Ranger: Monster Slayer",
+				"Ranger: Swarmkeeper"
+			]
+		},
+		{
+			"name": "Rogue",
+			"subclasses": [
+				"Rogue: Arcane Trickster",
+				"Rogue: Assassin",
+				"Rogue: Inquisitive",
+				"Rogue: Mastermind",
+				"Rogue: Phatom",				
+				"Rogue: Scout",
+				"Rogue: Soulknife",
+				"Rogue: Swashbuckler",
+				"Rogue: Thief"
+			]
+		},
+		{
+			"name": "Sorcerer",
+			"subclasses": [
+				"Sorcerer: Aberrant Mind",
+				"Sorcerer: Clockwork Soul",
+				"Sorcerer: Divine Soul",
+				"Sorcerer: Draconic Bloodline",
+				"Sorcerer: Lunar Sorcery",
+				"Sorcerer: Shadow Magic",
+				"Sorcerer: Storm Sorcery",
+				"Sorcerer: Wild Magic",
+				"Sorcerer: Giant Soul (UA)",
+				"Sorcerer: Phoenix Sorcery (UA)",
+				"Sorcerer: Sea Sorcery (UA)",
+				"Sorcerer: Stone Sorcery (UA)"
+			]
+		},
+		{
+			"name": "Warlock",
+			"subclasses": [
+				"Warlock: The Archfey",
+				"Warlock: The Celestial",				
+				"Warlock: The Fathomless",
+				"Warlock: The Fiend",
+				"Warlock: The Genie",
+				"Warlock: The Great Old One",
+				"Warlock: The Hexblade",
+				"Warlock: The Raven Queen (UA)",
+				"Warlock: The Seeker (UA)",
+				"Warlock: The Undead",
+				"Warlock: The Undying"
+			]
+		},
+		{
+			"name": "Wizard",
+			"subclasses": [
+				"Wizard: Bladesinging",
 				"Wizard: Order of Scribes",
-                "Wizard: School of Abjuration",
-                "Wizard: School of Chronurgy",
-                "Wizard: School of Conjuration",
-                "Wizard: School of Divination",
-                "Wizard: School of Enchantment",
-                "Wizard: School of Evocation",
-                "Wizard: School of Graviturgy",
-                "Wizard: School of Illusion",
-                "Wizard: School of Necromancy",
-                "Wizard: School of Transmutation",
-                "Wizard: War Magic"
-            ]
-        }
-    ],
-    "races": [
+				"Wizard: School of Abjuration",
+				"Wizard: School of Chronurgy",
+				"Wizard: School of Conjuration",
+				"Wizard: School of Divination",
+				"Wizard: School of Enchantment",
+				"Wizard: School of Evocation",
+				"Wizard: School of Graviturgy",
+				"Wizard: School of Illusion",
+				"Wizard: School of Necromancy",
+				"Wizard: School of Transmutation",
+				"Wizard: War Magic"
+			]
+		}
+	],
+	"races": [
 		"(Legacy) Aarakocra",
 		"Aarakocra",
 		"(Legacy) Aasimar (Fallen)",
@@ -451,5 +451,5 @@
 		"Warforged",
 		"(Legacy) Yuan-Ti (Pureblood)",
 		"Yuan-Ti"
-    ]
+	]
 }
