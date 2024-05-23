@@ -1,6 +1,4 @@
-const API_BASE = "https://api.andrew-zhu.com";
-const DATA_BASE = "https://andrew-zhu.com/dnd/dicecloudtools";
-
+const API_BASE = "https://steffleupagus.github.io/dicecloud/api/data/";
 var races, classes, backgrounds;
 
 const urlParams = new URLSearchParams(window.location.search);
@@ -36,7 +34,7 @@ after_load_data = function (data) {
 
 $(function () {
 	console.log("Getting data");
-	$.getJSON(`${API_BASE}/autochar_options`, after_load_data);
+	$.getJSON(`${API_BASE}/autochar_options.json`, after_load_data);
 });
 
 document.getElementById("klass").onchange = function (e) {
